@@ -9,4 +9,5 @@ Provides helpers for determining the angular distance between two Quaternions, a
 
 ## Rotation Matrix
 Provides methods to get a 3- or 4-wide and deep rotation matrix representing the rotation from a {w,x,y,z}-formatted rotation vector.
-Provides a mmethod to get the angular difference between two rotation matrices.
+
+Provides a method to get the angular difference between two rotation matrices.
